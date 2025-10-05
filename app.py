@@ -58,31 +58,34 @@ def clean_text(text: str) -> str:
 # ---------- UI ----------
 input_text = st.text_area("Paste your Markdown here:", height=220)
 
+# --- Buttons ---
 col1, col2 = st.columns(2)
-cleaned = st.session_state.get("cleaned_text", "")
+if "cleaned_text" not in st.session_state:
+    st.session_state.cleaned_text = ""
 
 with col1:
     if st.button("🧽 Clean"):
         st.session_state.cleaned_text = clean_text(input_text)
-        st.experimental_rerun()
 
 with col2:
     if st.button("📋 Copy"):
-        if st.session_state.get("cleaned_text"):
-            pyperclip.copy(st.session_state.cleaned_text)
-            st.success("✅ Copied cleaned Markdown to clipboard")
+        if st.session_state.cleaned_text:
+            try:
+                pyperclip.copy(st.session_state.cleaned_text)
+                st.success("✅ Copied cleaned Markdown to clipboard")
+            except Exception as e:
+                st.warning("⚠️ Clipboard copy failed (pyperclip not supported in cloud). You can still copy manually below.")
         else:
             st.warning("No cleaned text available yet.")
 
 # ---------- Output ----------
-if st.session_state.get("cleaned_text"):
+if st.session_state.cleaned_text:
     cleaned = st.session_state.cleaned_text
     st.text_area("Cleaned Output", cleaned, height=220)
-
     st.markdown("---")
     st.subheader("🔍 Markdown Preview")
 
-    # Simple CSS fix for table borders in built-in Markdown renderer
+    # CSS fix for table borders
     st.markdown("""
         <style>
         table {border-collapse: collapse; width: 100%; margin: 8px 0;}
