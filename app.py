@@ -1,6 +1,8 @@
 import re
 import pyperclip
 import streamlit as st
+from markdown import markdown as md_to_html
+from streamlit.components.v1 import html as st_html
 
 st.set_page_config(page_title="Coala Markdown Cleaner", layout="wide")
 
@@ -8,22 +10,18 @@ st.set_page_config(page_title="Coala Markdown Cleaner", layout="wide")
 st.image("coala.png", width=120)
 st.title("🧹 Coala Markdown Cleaner")
 
-# ---------- Helper: Cleaning logic ----------
+# ---------- Cleaner ----------
 def clean_text(text: str) -> str:
-    # Remove Word cruft
     text = re.sub(r"<span[^>]*>", "", text)
     text = re.sub(r"</span>", "", text)
     text = re.sub(r"mso-[^:;]+:[^;\"']+;?", "", text, flags=re.IGNORECASE)
     text = re.sub(r"font-[^:;]+:[^;\"']+;?", "", text, flags=re.IGNORECASE)
     text = re.sub(r' style="[^"]*"', "", text)
     text = text.replace("", "- ").replace("–", "- ")
-
-    # Remove table control codes like @cols=2 etc.
     text = re.sub(r"@cols=\d+(:@rows=\d+)?[:：]?", "", text)
     text = re.sub(r"@rows=\d+[:：]?", "", text)
-
-    # Normalize heading spacing
     text = re.sub(r'^(#+)[ \t]+', r'\1 ', text, flags=re.MULTILINE)
+
     lines = []
     for line in text.splitlines():
         if line.strip().startswith("#"):
@@ -31,7 +29,7 @@ def clean_text(text: str) -> str:
         lines.append(line)
     text = "\n".join(lines)
 
-    # Bold table headers
+    # Bold first row in tables (safe)
     def bold_table_headers(md_in: str) -> str:
         lines = md_in.splitlines()
         out = []
@@ -55,44 +53,52 @@ def clean_text(text: str) -> str:
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
 
-# ---------- UI ----------
+# ---------- Layout ----------
 input_text = st.text_area("Paste your Markdown here:", height=220)
-
-# --- Buttons ---
-col1, col2 = st.columns(2)
 if "cleaned_text" not in st.session_state:
     st.session_state.cleaned_text = ""
 
+col1, col2 = st.columns(2)
 with col1:
     if st.button("🧽 Clean"):
         st.session_state.cleaned_text = clean_text(input_text)
-
 with col2:
     if st.button("📋 Copy"):
         if st.session_state.cleaned_text:
             try:
                 pyperclip.copy(st.session_state.cleaned_text)
                 st.success("✅ Copied cleaned Markdown to clipboard")
-            except Exception as e:
-                st.warning("⚠️ Clipboard copy failed (pyperclip not supported in cloud). You can still copy manually below.")
+            except Exception:
+                st.warning("⚠️ Clipboard copy not supported here. Copy manually below.")
         else:
-            st.warning("No cleaned text available yet.")
+            st.warning("Nothing to copy yet.")
 
 # ---------- Output ----------
 if st.session_state.cleaned_text:
     cleaned = st.session_state.cleaned_text
-    st.text_area("Cleaned Output", cleaned, height=220)
+    st.text_area("Cleaned Output", cleaned, height=240)
+
     st.markdown("---")
     st.subheader("🔍 Markdown Preview")
 
-    # CSS fix for table borders
-    st.markdown("""
+    # Use full GFM renderer for accurate preview
+    html_body = md_to_html(
+        cleaned,
+        extensions=["tables", "sane_lists", "nl2br"]
+    )
+
+    st_html(
+        f"""
         <style>
-        table {border-collapse: collapse; width: 100%; margin: 8px 0;}
-        th, td {border: 1px solid #ccc; padding: 6px 8px; text-align: left;}
-        th {background: #f6f8fa;}
+        body, .md-preview {{ font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Inter,Arial,sans-serif; }}
+        table {{ border-collapse: collapse; width: 100%; margin: 8px 0; }}
+        th, td {{ border: 1px solid #ccc; padding: 6px 8px; vertical-align: top; }}
+        th {{ background: #f6f8fa; font-weight: 600; }}
         </style>
-    """, unsafe_allow_html=True)
-    st.markdown(cleaned, unsafe_allow_html=True)
+        <div class="md-preview">{html_body}</div>
+        """,
+        height=550,
+        scrolling=True,
+    )
 else:
     st.info("Paste text and click **Clean** to begin.")
