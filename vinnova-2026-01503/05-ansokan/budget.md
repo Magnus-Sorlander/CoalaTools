@@ -68,3 +68,29 @@ Tord Juhlin (5–10 h/mån, cirka 30 h totalt): antingen som Coalas Medical Dire
 Förslag: Coala söker **130 000 kr** av 239 750 kr och redovisar resten som egen finansiering. Då ryms koordinator (110 000 kr) och Miun (60 000 kr) inom taket 300 000 kr.
 
 **Miun:** Vinnova betalar upp till 100 % av Mittuniversitetets kostnader (icke-ekonomisk verksamhet). Miun betalar inget själva; de 60 000 kr täcker Jan Lundgrens eller en postdoks arbetstid (cirka 50–70 timmar inklusive universitetets overhead). Miuns forskningsadministration måste godkänna deltagandet och senare underteckna medverkan, så Jan behöver förankra internt redan måndag.
+
+## Revision 2026-10-10 kväll (Magnus beslut)
+
+- Miun: 30 timmar, cirka 35 000 kr inklusive universitetets overhead.
+- Tord Juhlin: 30 timmar, hälften egen insats (ingen kostnad), hälften konsult: 15 h × [timpris, antaget 1 200 kr] = 18 000 kr.
+- Korrigering: **obetalda timmar är inte stödberättigande kostnader** och kan därför inte stå som egen finansiering i budgettabellen. Magnus 100 timmar och Tords ideella 15 timmar beskrivs i texten som Coalas insats utöver budgeten, men finns inte i kostnadstabellen. "Egen finansiering" i tabellen är den del av de bokförda kostnaderna som Coala betalar själv.
+- **20-procentsregeln räknas på Coalas hela budget** (bokförda kostnader), inte på sökt bidrag. Konsultkostnader får alltså vara högst 20 % av 239 750 kr ≈ 48 000 kr. För att få plats med Tord sänks Yasmina till 25 timmar.
+
+| Post | Kostnad (kr) |
+|---|---:|
+| Personal: Wilma 75 300 + Anna 17 200 + Johan 55 000 | 147 500 |
+| Indirekta kostnader 30 % | 44 250 |
+| Konsult: Yasmina 25 h × 1 200 = 30 000; Tord 15 h × 1 200 = 18 000 | 48 000 |
+| **Budget Coala** | **239 750** |
+| Konsultandel | 20,0 % |
+
+Fördelning av sökt bidrag (tak 300 000 kr):
+
+| Part | Sökt bidrag | Egen finansiering |
+|---|---:|---:|
+| Koordinator | 110 000 | 0 |
+| Coala Solutions | **155 000** | 84 750 |
+| Mittuniversitetet | 35 000 | 0 |
+| Summa | 300 000 | 84 750 |
+
+Om koordinatorn klarar sig med färre timmar kan Coalas andel höjas ytterligare, upp till hela 239 750 kr under de minimis.
