@@ -60,6 +60,7 @@ Ren produktutveckling (långtidslogger, ruggad enhet, ny app) finansieras inte h
 | 2026-10-10 | Idé 1 (plutonsjukvårdare, reach-back, ultraljud som COTS-komplement) är huvudspåret. Tord Juhlin klinisk nyckelperson. Ingen ultraljudspartner namnges. Ingen plattformsutveckling utöver admin/presentation. | Magnus |
 | 2026-10-10 | Inriktning: förstudie. AP2 informationsflöde prioriteras. | Magnus |
 | 2026-10-10 | Koordinator i första hand Mittuniversitetet (via Jan Lundgren och Miun Innovation). BizMaker och UIC som reserv. Coalas andel ska maximeras. | Magnus |
+| 2026-10-10 | Ändrat: BizMaker koordinator i första hand (mindre byråkrati), UIC reserv. Miun part med 30 h, Jan Lundgren rådgivande om upplägget. Budget: BizMaker 110 000, Coala 155 000, Miun 35 000. | Magnus |
 | | | |
 
 ## 7. Magnus idé 1 (2026-10-10): Plutonsjukvårdare med Coala, ultraljud och live-stöd

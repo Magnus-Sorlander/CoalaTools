@@ -108,3 +108,7 @@ Koordinatorns uppgifter: projektledning, ansökan i e-tjänsten, rapportering, m
 Om Miun klarar sig på 60 000 kr kan Coala söka 239 750 kr, hela sin budget, under de minimis. Fler kostnader hos Coala (till exempel Wilma upp till 300 h, eller resor till Göteborg för FömedC-besök under övriga direkta kostnader) kan läggas till om Miuns andel blir låg.
 
 Att bekräfta med Jan: Miuns timkostnad inklusive overhead, vem som är firmatecknare för Vinnova-ansökningar, att Miun har konto i Vinnovas e-tjänst, och att Miun Innovation kan stå som den enhet som utvecklar och förvaltar metoden.
+
+## Beslut 2026-10-10 sent: BizMaker koordinator, Miun part
+
+Gällande fördelning: BizMaker 110 000 kr, Coala Solutions 155 000 kr, Mittuniversitetet 35 000 kr. Miun-som-koordinator-varianten ovan behålls som reserv.

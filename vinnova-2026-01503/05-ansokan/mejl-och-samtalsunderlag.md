@@ -110,20 +110,19 @@ VD, Coala Solutions AB
 
 ## 6. Mejl till Jan Lundgren, Mittuniversitetet (skicka i helgen)
 
-**Ämne:** Snabb fråga: Miun som koordinator för Vinnova-förstudie i civil-militära programmet, deadline tisdag
+**Ämne:** Miun som part i Vinnova-förstudie om Coala i Försvarsmaktens vårdkedja, deadline tisdag
 
 Hej Jan,
 
-Jag har en fråga som brådskar. Vinnova och Försvarsmakten har en öppen utlysning, "Stärkt ekosystem för civil-militär innovationssamverkan" (2026-01503), som stänger tisdag 13 oktober kl 14:00. Vi vill söka en förstudie (max 300 000 kr, fyra månader från 20 november) om hur Coalas certifierade distansmonitorering, EKG och hjärt-/lungljud, kan kvalificeras för Försvarsmaktens vårdkedja, med plutonsjukvårdare som får fjärrstöd av utbildad vårdpersonal. Det knyter direkt an till FUSMON: datakvalitet, sensorfusion och vad som krävs av data i fält.
+En snabb fråga som brådskar. Vinnova och Försvarsmakten har en öppen utlysning, "Stärkt ekosystem för civil-militär innovationssamverkan" (2026-01503), som stänger tisdag 13 oktober kl 14:00. Vi söker en förstudie (max 300 000 kr, fyra månader från 20 november) om hur Coalas certifierade distansmonitorering, EKG och hjärt-/lungljud, kan kvalificeras för Försvarsmaktens vårdkedja, med plutonsjukvårdare som får fjärrstöd av utbildad vårdpersonal. Koordinator blir en inkubator (BizMaker i Sundsvall i första hand), Coala är företagspart.
 
-Kravet i utlysningen är att koordinatorn är en innovationsaktör, till exempel ett innovationskontor, och att projektledaren är anställd hos koordinatorn. Företag kan bara vara part. Universitet var koordinatorer i 2024 års omgång (Lunds universitet, Chalmers). Därför frågan: kan Mittuniversitetet, med dig som projektledare och Miun Innovation som utförande innovationskontor, vara koordinator?
+Jag vill ha med Mittuniversitetet som forskningspart för datakvalitet och analysstruktur, det vill säga vad som krävs av data från fält för att FUSMON-typen av analys ska fungera. Omfattning cirka 30 timmar, finansierat till 100 % (cirka 35 000 kr inklusive overhead, justeras efter er timkostnad). Inga pengar från Miun, bara tid, och en kort CV-tabell för dig i ansökan.
 
-Vad det innebär för Miun:
-- Cirka 80–90 timmar över fyra månader, finansierat till 100 % (cirka 90 000 kr inklusive overhead, justeras efter er timkostnad): projektledning, rapportering, och en metodbeskrivning för hur innovationskontoret matchar certifierad medicinteknik mot militära behov.
-- Ansökan skapas i Vinnovas e-tjänst på Miun; jag och Claude har text, budget och bilagor klara, ni granskar innan klarmarkering.
-- Efter beslut: underskrift av medverkan och ett enkelt projektavtal mellan Miun och Coala.
+Två frågor:
+1. Kan Miun vara part med den omfattningen, och vad behöver ni internt för att säga ja före tisdag?
+2. Din snabba bedömning: ser upplägget rimligt ut för utlysningen, utifrån din erfarenhet av Vinnova?
 
-Jag behöver veta senast måndag förmiddag om det är möjligt, vem på Miun Innovation som bör kopplas in, er timkostnad inklusive overhead och vem som är firmatecknare för Vinnova-ansökningar. Jag ringer gärna när det passar dig, även i helgen.
+Jag ringer gärna när det passar, även i helgen.
 
 Utlysningen: https://www.vinnova.se/e/civil-militara-synergier/starkt-ekosystem-for-civil-militar-2026-01503/
 
