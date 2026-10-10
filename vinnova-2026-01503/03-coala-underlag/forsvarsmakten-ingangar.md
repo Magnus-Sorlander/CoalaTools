@@ -1,0 +1,40 @@
+# Vägar in i Försvarsmakten – räddade fynd från avbruten djupresearch (2026-10-10)
+
+Researchen stoppades innan syntesen, men sök- och verifieringsfaserna hann extrahera 108 påståenden från cirka 25 källor, varav tio verifierades med hög konfidens. Det som nedan är markerat **[verifierat]** kommer från källan direkt; resten är extraherat av sökagenter och bör kontrolleras mot länken innan det används i ansökan.
+
+## 1. Vem kan signera behovsbeskrivningen
+
+- Mallen kräver att behovsägaren "företräds av eller ges uppgift av stridskrafts-/försvarsgrensstab alternativt avdelningschef inom Försvarsstaben", max en sida, 11 punkter, och koppling till FM:s befintliga eller planerade verksamhet. **[verifierat, Vinnovas mall]**
+- Försvarsmaktens arbetsordning (FM ArbO, konsoliderad 1 januari 2026) placerar försvarsmedicin i Försvarsstabens stödenhet: **generalläkaren är chef för generalläkaravdelningen (FST STÖD GL)**, har funktionsansvar för försvarsmedicin och utövar vårdgivaransvaret. Generalläkaren är alltså en avdelningschef inom Försvarsstaben och därmed en formellt möjlig undertecknare. Källa: https://www.forsvarsmakten.se/siteassets/2-om-forsvarsmakten/dokument/lagrum/gallande-fib/fm-arbo-konsoliderad-1-januari-2026.pdf
+- Enligt ArbO får den som har funktionsansvar företräda FM inom sitt område och samverka med organisationer och företag. Avtal med ekonomiska förpliktelser ska beredas av HKV juridiska avdelning och undertecknas av ÖB, GD eller C FST. En behovsbeskrivning utan ekonomiska åtaganden kan därför signeras av ansvarig chef. Samma källa.
+- **Försvarsmedicincentrum (FömedC) tillhör sedan 1 januari 2026 Armén**, överlämnat från Chefen logistik (Claes Izos) till Arméchefen (Jonny Lindfors). Stridskraftsstaben för FömedC är alltså **Arméstaben**. Förbandschef sedan 11 december 2025: **överste Filip Scheynius** (efterträdde överste Malin J Ekenberg). Ledningstriangeln beskrivs som Arméchefen, Generalläkaren och förbandschefen. Källor: https://www.forsvarsmakten.se/aktuellt/nyheter/forsvarsmedicinsk-formaga-starks-inom-armen/ och https://sv.wikipedia.org/wiki/F%C3%B6rsvarsmedicincentrum
+- FömedC består av ledning med stab, Försvarsmaktens stridsskola för försvarsmedicin (FSS, med simulerings- och metodavdelning), Funktionsenheten (FunkE) och Sjukhusbataljonen (två sjukhuskompanier och ett traumakompani). **FunkE bedriver "studier och försök"**, bland annat containerbaserade mobila sjukhus och autonom evakuering, och leddes 2024 av överstelöjtnant Henrik Börjesson. FunkE är den naturliga tekniska ingången för en fältmässig EKG/auskultationsprodukt. Källa: https://officerstidningen.se/sjukvardskedjan-lankas-samman-igen/
+- Slutsats för ansökan: två formellt giltiga signaturvägar. (a) Generalläkaravdelningen i Försvarsstaben. (b) Arméstaben på uppdrag av FömedC/FunkE. Substansen tas fram med FömedC, signaturen hämtas från (a) eller (b).
+
+## 2. Programmets och myndigheternas ingångar
+
+- Vinnovas programansvarig för CMIP: **Josefin van der Meer**, josefin.vandermeer@vinnova.se, +46 8 473 32 64. Utlysningsteam: cmip.ekosystem@vinnova.se, Lars Resman. Källa: https://www.vinnova.se/en/innovation/civilian-technology-can-solve-military-challenges/
+- Regeringen gav 9 juli 2026 (Fö2025/01745) Försvarsmakten i uppdrag att inrätta en **samlad funktion för försvarsinnovation** tillsammans med FMV, FOI och Vinnova, med uttryckligt syfte att föra samman behovsägare (krigsförband, funktioner, försvarsgrenar med experimentkontor) med industri, inkubatorer och innovationskontor, och att öka användningen av CMIP. Redovisas 1 november 2026, alltså efter deadline, så den kan inte användas nu men bör nämnas som planerad struktur. Källor: https://www.regeringen.se/pressmeddelanden/2026/07/en-samlad-funktion-for-forsvarsinnovation-inrattas/ och https://regeringen.se/contentassets/af3e94f9020d420cb491cacc7488a4c1/uppdrag-om-starkt-forsvarsinnovation-och-snabb-anpassning.pdf
+- Namngivna i försvarsinnovationsarbetet (Vinnovas rapport 2025-04208): FM: Maja Sundstrand, Malin Tornberg (sektionschef), Peder Sunna, Malin Ahlander (stf avdelningschef), överste Magnus Frykvall. FMV: Johan Gullman-Strand. FOI: Katarina Wilhelmsen, Karin Nygren. Vinnova: Laurent Saunier, Josefin van der Meer. Källa: https://www.vinnova.se/contentassets/27221ab6bd45419cb576dc2fbc51c896/2025-04208-vinnovas-rapport-framja-forsvarsinnovation.pdf
+- FMV driver Militärt innovationsprogram (MIP) med FM och har en egen sida för CMIP; ingång för nya idéer är ett webbformulär, inga namngivna kontakter. Källor: https://www.fmv.se/foretag-och-samarbete/innovation-och-finansiering/innovationsprogrammet-for-civil-militara-synergier/ och https://www.fmv.se/om-fmv/for-leverantorer-och-kunder/techday/
+- LEAD (Linköping) publicerade 2026 års utvalda bolag i acceleratorn: https://lead.se/en/accelerating-civil-military-innovation-here-are-the-selected-companies-in-2026/
+- Ideon har publicerat en RFI "Kan din innovation stärka Sveriges försvarsförmåga": https://ideon.se/blog-posts/rfi-kan-din-innovation-starka-sveriges-forsvarsformaga/
+
+## 3. SAFDIP
+
+- Utlysningstexten nämner bara att mjukvarukomponenter ska "styras mot" SAFDIP. Tre webbsökningar gav noll offentliga träffar på SAFDIP. Ingen ägare, kontakt eller onboarding är publicerad. **[verifierat]** Fråga Vinnova (cmip.ekosystem@vinnova.se) vad som förväntas av ett projekt med en mobilapp och portal.
+- Möjlig koppling: Knowit vann ramavtal för Försvarsmaktens digitala plattformar: https://www.knowit.eu/news-press/knowit-wins-framework-agreement-for-the-swedish-armed-forces-digital-platforms/ (ej bekräftat att det gäller SAFDIP).
+
+## 4. Dokumenterade behov att rama in Coala mot
+
+- FM:s försvarsmedicinpresentation på FMV TechDay 2022 utgår från NATO:s 10-1-2-regel (AJP-4.10) och listar en önskelista på gruppchefsnivå, bland annat triage vid masskadeläge och förenklad skaderapportering. Källa: https://www.fmv.se/globalassets/dokument/om-fmv/techday/fm_techday_forsvarsmedicin_2022-04-01.pdf
+- NATO AMedP-5.3 (telemedicin) nämner uttryckligen EKG och kroppssensorer som dataströmmar telemedicinsystem ska hantera, kräver automatisk registrering från medicinska apparater och rekommenderar civila COTS-lösningar med öppen arkitektur. Källa: https://coemed.org/files/stanags/03_AMEDP/AMedP-5.3_EDB_V1_E_2517.pdf
+- NATO COMEDS Future Advisory Board (2024) prioriterar "Body sensors in casualty monitoring", "Prolonged casualty care" och "Telemedicine reach forward/reach back". Sverige representerades av Centrum för katastrofmedicin (GU) med mandat från Socialstyrelsen och Generalläkaren. GU:s totalförsvarsmedicinska omvärldsanalys (2024-10-31) pekar ut bärbara sensorer för vitalparametrar och larm vid försämring som nyckeltrend. Källor: https://www.coemed.org/branches/ll_and_innovation och https://gu.se/sites/default/files/2024-11/Totalfo%CC%88rsvarsmedicinsk%20omva%CC%88rldsanalys%202024-10-31.pdf
+- Prop. 2024/25:34 (avsnitt 6.5.6): krigssjukvården ska förstärkas till två sjukhuskompanier och tre fältsjukhus 2025–2030. Källa: https://lagen.nu/prop/2024/25:34
+- Vinnovas informationsmöten (Östersjöutlysningen april 2026, test- och evaluering 2026) finns som PDF och beskriver hur FM-behov förmedlas till sökande: https://www.vinnova.se/contentassets/38750b56f28d49bfbffb93dcd7451c41/informationsmote_forsvarsinnovation-for-ett-sakert-ostersjoomrade_260408.pdf och https://www.vinnova.se/contentassets/fdcc868076d44aa4b38cf574eb5e19b5/informationsmote-utlysning-test-och-evaluering.pdf
+
+## 5. Vad detta betyder för samtalen i dag
+
+1. Ring Vinnova (Josefin van der Meer eller Lars Resman) och fråga: hur har andra sökande fått behovsbeskrivningen signerad, och är generalläkaravdelningen en godtagbar undertecknare för medicinteknik?
+2. Kontakta FömedC:s expedition i Göteborg och be att få tala med FunkE om en behovsbeskrivning för distansregistrering av EKG och hjärt-/lungljud, med hänvisning till 10-1-2, prolonged casualty care och AMedP-5.3.
+3. Om ingen signatur kan nås före måndag: förstudie, och skriv in i AP1 att förstudien ska resultera i en signerad behovsbeskrivning inför tillämpningsansökan 2027.
