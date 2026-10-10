@@ -57,6 +57,7 @@ Ren produktutveckling (långtidslogger, ruggad enhet, ny app) finansieras inte h
 | Datum | Beslut | Av |
 |---|---|---|
 | 2026-10-10 | Arbetsstruktur och underlag upprättat | Claude |
+| 2026-10-10 | Idé 1 (plutonsjukvårdare, reach-back, ultraljud som COTS-komplement) är huvudspåret. Tord Juhlin klinisk nyckelperson. Ingen ultraljudspartner namnges. Ingen plattformsutveckling utöver admin/presentation. | Magnus |
 | | | |
 
 ## 7. Magnus idé 1 (2026-10-10): Plutonsjukvårdare med Coala, ultraljud och live-stöd
@@ -69,3 +70,12 @@ Att utreda:
 3. Teknisk integration: anpassning av data (särskilt live-ultraljud) till befintlig datamängd och kvalitetssäkring.
 
 Claudes bedömning: se chatt 2026-10-10. Utredningsfrågorna 1–3 är i praktiken en förstudie enligt utlysningens definition. Produktutveckling (ultraljud, live) hör till SME-test 2027 och Acceleration 2028.
+
+### Magnus svar 2026-10-10 på Claudes frågor om idé 1
+
+1. **Ultraljud:** ingen integration i Coala-enheten, i bästa fall sammanpackning av två lösningar under samma administration. Ingen partner fastställs nu; Butterfly vore förstahandsval men ingen kontakt finns. Detaljerna avgör integrationen. Coala ska inte utveckla ultraljudslösningen.
+2. **Klinisk part:** Tord Juhlin, överläkare och sektionschef kardiologi SUS Malmö, Medical Director m.m. för Coala. Reach-back-sidan byggs kring honom.
+3. **Civilförsvar:** nämns som att lösningen inte är begränsad till den militära kedjan, utan djupare utveckling av det spåret.
+4. **Plattform:** ingen större förändring krävs. Inga nya API:er. Det som behövs är administrations- och presentationsdelen i plattformen (live-vy, roller för fjärrstöd, sammanhållen administration av Coala och ultraljud).
+
+Konsekvens för ansökan: AP4 (teknisk integration) blir en gapanalys av administration och presentation plus datakvalitet, inte utveckling. Ultraljud beskrivs som "kompletterande COTS-enhet under gemensam administration", leverantör väljs i förstudien.
