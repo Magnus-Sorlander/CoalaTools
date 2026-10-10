@@ -58,3 +58,14 @@ Ren produktutveckling (långtidslogger, ruggad enhet, ny app) finansieras inte h
 |---|---|---|
 | 2026-10-10 | Arbetsstruktur och underlag upprättat | Claude |
 | | | |
+
+## 7. Magnus idé 1 (2026-10-10): Plutonsjukvårdare med Coala, ultraljud och live-stöd
+
+Försvaret har plutonsjukvårdare med kort utbildning. Med en Coala kan de kommunicera bättre med sjukvården och få instruktioner. Utökat med ultraljud (separat enhet) och live-funktion: stetoskop, EKG, ultraljud (flöden, lungvätska, frakturer) och video i realtid, med instruktioner från utbildad medicinsk personal om datainsamling (flytta EKG, flytta ultraljud), bästa tillfälliga vård och triage, så att begränsade sjukvårdsresurser inte används i onödan, i fred eller ofred. Stor potential även i civilförsvaret.
+
+Att utreda:
+1. Informationsflöde och säkerhet: mobilnät kontra militära eller andra system, integritet, eventuell journalkoppling.
+2. Analys och användning av data: struktur för effektiv koppling mot befintlig civil och militär sjukvård för snabb återkoppling.
+3. Teknisk integration: anpassning av data (särskilt live-ultraljud) till befintlig datamängd och kvalitetssäkring.
+
+Claudes bedömning: se chatt 2026-10-10. Utredningsfrågorna 1–3 är i praktiken en förstudie enligt utlysningens definition. Produktutveckling (ultraljud, live) hör till SME-test 2027 och Acceleration 2028.
