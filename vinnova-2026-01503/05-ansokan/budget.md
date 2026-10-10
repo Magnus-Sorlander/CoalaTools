@@ -48,3 +48,23 @@ Tord Juhlin (5–10 h/mån, cirka 30 h totalt): antingen som Coalas Medical Dire
 | AP4 Teknisk integration och kvalitet | gapanalys admin/presentation, ultraljud som COTS-komplement, MDR-väg | 10 | 30 | | 30 | 30 |
 | AP5 Metod och spridning | koordinatorns metod, rapport, spridning, behovsbeskrivning 2027 | 10 | 50 | 20 | | |
 | Summa | | 100 | 250 | 40 | 80 | 40 |
+
+## Beslut 2026-10-10 (Magnus) och reviderad Coala-budget
+
+- Magnus 100 h: egen finansiering, ingen lön tas upp.
+- Johan Trumstedt: projektanställs, redovisas som personal (80 h, 55 000 kr).
+- Tord Juhlin: konsult, cirka 30 h. Ersättning avgörs av Coala; om arvode tas upp ligger det under konsultkostnader.
+- Yasmina Belarbi: konsult, 40 h, 48 000 kr.
+
+| Post | Kostnad (kr) |
+|---|---:|
+| Personal: Wilma 75 300 + Anna 17 200 + Johan 55 000 | 147 500 |
+| Indirekta kostnader 30 % | 44 250 |
+| Konsult: Yasmina 48 000 (+ ev. Tord) | 48 000 |
+| **Stödberättigande kostnader Coala** | **239 750** |
+| Konsultandel | 20,0 % (gräns 20 %; sänk Yasmina till 35 h eller lägg Tords arvode som egen finansiering om han tillkommer) |
+| Egen finansiering: Magnus 100 h (86 100) + överskjutande del | ca 190 000 |
+
+Förslag: Coala söker **130 000 kr** av 239 750 kr och redovisar resten som egen finansiering. Då ryms koordinator (110 000 kr) och Miun (60 000 kr) inom taket 300 000 kr.
+
+**Miun:** Vinnova betalar upp till 100 % av Mittuniversitetets kostnader (icke-ekonomisk verksamhet). Miun betalar inget själva; de 60 000 kr täcker Jan Lundgrens eller en postdoks arbetstid (cirka 50–70 timmar inklusive universitetets overhead). Miuns forskningsadministration måste godkänna deltagandet och senare underteckna medverkan, så Jan behöver förankra internt redan måndag.

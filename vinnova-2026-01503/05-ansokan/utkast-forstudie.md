@@ -40,7 +40,7 @@ Försvarsmaktens vårdkedja bygger på principen 10-1-2: första hjälpen inom t
 
 **Metodik för datainsamling och analys.** Semistrukturerade intervjuer (8–12) med FömedC (funktionsenheten, stridsskolan, sjukhusbataljonen), Arméstaben eller generalläkaravdelningen, FMV och FOI, samt med civil akut- och hemsjukvård (Karolinska, Skånes universitetssjukhus). En workshop med behovsägaren om scenarier för informationsflöde. Dokumentanalys av AJP-4.10, AMedP-5.3, COMEDS prioriteringar, GU:s totalförsvarsmedicinska omvärldsanalys och Försvarsmaktens öppna styrdokument. Teknisk gapanalys mot Coalas befintliga plattform och datamodell (1,1 miljoner mätningar i drift). Resultaten sammanställs i en kravmatris med klassning: uppfylls i dag, kräver anpassning, kräver utveckling, kräver regulatorisk åtgärd.
 
-**Kostnader, resursbehov och genomförande.** Förstudien söker 300 000 kr. Coala Solutions bidrar därutöver med egen finansiering om cirka [200 000] kr i arbetstid. Inga konsultkostnader utöver [Yasmina Belarbi, regulatorisk expertis, och Johan Trumstedt, plattformsarkitektur], båda under 20 % av Coalas budget. Fortsatt utveckling efter förstudien finansieras via tillämpningsprojekt 2027, Vinnovas SME-utlysning för test och evaluering samt Coalas egen kapitalisering (pågående emission om 3 MSEK).
+**Kostnader, resursbehov och genomförande.** Förstudien söker 300 000 kr. Coala Solutions bidrar därutöver med egen finansiering om cirka 190 000 kr i arbetstid, varav VD:s 100 timmar i sin helhet. Inga konsultkostnader utöver [Yasmina Belarbi, regulatorisk expertis, och Johan Trumstedt, plattformsarkitektur], båda under 20 % av Coalas budget. Fortsatt utveckling efter förstudien finansieras via tillämpningsprojekt 2027, Vinnovas SME-utlysning för test och evaluering samt Coalas egen kapitalisering (pågående emission om 3 MSEK).
 
 ## 4. Förväntade resultat av förstudien
 
@@ -96,7 +96,7 @@ Budgettabell per part och arbetspaket: se `budget.md`. Förs in i mallens tabell
 
 | Fält | Innehåll |
 |---|---|
-| Namn, ålder, kön | Magnus Sörlander, [ålder], man |
+| Namn, ålder, kön | Magnus Sörlander, 61, man |
 | Titel, organisation | VD, Coala Solutions AB |
 | Omfattning (h) | 100 |
 | Roll | Ansvarig för Coalas del, behovsdialog, systemdesign |
@@ -105,7 +105,7 @@ Budgettabell per part och arbetspaket: se `budget.md`. Förs in i mallens tabell
 
 | Fält | Innehåll |
 |---|---|
-| Namn, ålder, kön | Wilma Hoffman, [ålder], kvinna |
+| Namn, ålder, kön | Wilma Hoffman, 20, kvinna |
 | Titel, organisation | Business Development and Operations Associate, Coala Solutions AB |
 | Omfattning (h) | 250 |
 | Roll | Operativ projektledning för Coala, intervjuer, kravmatris, rapport |
@@ -114,7 +114,7 @@ Budgettabell per part och arbetspaket: se `budget.md`. Förs in i mallens tabell
 
 | Fält | Innehåll |
 |---|---|
-| Namn, ålder, kön | Tord Juhlin, [ålder], man |
+| Namn, ålder, kön | Tord Juhlin, 60, man |
 | Titel, organisation | Överläkare, sektionschef kardiologi Malmö, Skånes universitetssjukhus; Medical Director, Coala Solutions |
 | Omfattning (h) | 30 |
 | Roll | Klinisk expert för reach-back, triage och vad fjärrstöd kan och inte kan ge |
@@ -123,11 +123,20 @@ Budgettabell per part och arbetspaket: se `budget.md`. Förs in i mallens tabell
 
 | Fält | Innehåll |
 |---|---|
-| Namn, ålder, kön | Jan Lundgren, [ålder], man |
+| Namn, ålder, kön | Jan Lundgren, 48, man |
 | Titel, organisation | Professor, Mittuniversitetet |
 | Omfattning (h) | [ ] |
 | Roll | Datakvalitet, sensorfusion, analysstruktur |
 | Kompetens | Leder FUSMON, sensorfusion för hälsomonitorering, med NTNU. |
 | Motiv | Forskningsförankring för datakvalitet och framtida analys. |
 
-[Lägg till Anna Smedång, Johan Trumstedt, Yasmina Belarbi om sidutrymmet tillåter; annars nämns de under roller.]
+| Fält | Innehåll |
+|---|---|
+| Namn, ålder, kön | Anna Smedång, 42, kvinna |
+| Titel, organisation | [titel], Coala Solutions AB |
+| Omfattning (h) | 40 |
+| Roll | Administration, logistik, spridning |
+| Kompetens | [ ] |
+| Motiv | [ ] |
+
+Johan Trumstedt (plattformsarkitektur, projektanställd) och Yasmina Belarbi (regulatorisk expertis, konsult) beskrivs under roller.
