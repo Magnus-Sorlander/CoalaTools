@@ -58,12 +58,13 @@ Coala Solutions AB, Bangårdsgatan 13, Uppsala
 
 Hej,
 
-Coala Solutions AB förbereder, tillsammans med en inkubator som koordinator och Mittuniversitetet, en förstudieansökan i utlysningen "Stärkt ekosystem för civil-militär innovationssamverkan". Fyra korta frågor:
+Coala Solutions AB förbereder, tillsammans med en inkubator som koordinator och Mittuniversitetet, en förstudieansökan i utlysningen "Stärkt ekosystem för civil-militär innovationssamverkan". Fem korta frågor:
 
 1. Koordinatorkravet: om vår tilltänkta inkubator inte kan ställa upp i tid, kan ett privat konsultbolag inom regulatory affairs för medicinteknik, som dagligen ger rådgivning till företag, godtas som koordinator? Vår läsning är att det inte är avsikten, men vi vill ha det bekräftat.
 2. SAFDIP: förstudien gäller en befintlig certifierad produkt med mobilapp och vårdportal. Vad förväntas av en förstudie i förhållande till SAFDIP, och finns det en kontaktperson eller dokumentation vi kan hänvisa till?
 3. Koordinator: kan ett universitet, genom sitt innovationskontor och med en anställd professor som projektledare, vara koordinator? I 2024 års infrastrukturutlysning koordinerade Lunds universitet och Chalmers förstudier, och vi vill bekräfta att samma gäller nu.
-4. Behovsbeskrivning: den krävs inte för förstudie, men vi avser att förstudien ska resultera i en signerad behovsbeskrivning inför ett tillämpningsprojekt 2027. För försvarsmedicin, är generalläkaravdelningen i Försvarsstaben eller Arméstaben (Försvarsmedicincentrum tillhör sedan januari 2026 Armén) rätt undertecknare? Finns det en ingång i Försvarsmakten som Vinnova rekommenderar för utlysningens sökande?
+4. Innovativa Startups 2026: Coala Solutions AB är registrerat på 1980-talet men låg helt vilande utan verksamhet fram till 2024, då bolaget förvärvade produktlinjen och bytte namn. Kan bolaget söka, eller räknas registreringsdatum strikt?
+5. Behovsbeskrivning: den krävs inte för förstudie, men vi avser att förstudien ska resultera i en signerad behovsbeskrivning inför ett tillämpningsprojekt 2027. För försvarsmedicin, är generalläkaravdelningen i Försvarsstaben eller Arméstaben (Försvarsmedicincentrum tillhör sedan januari 2026 Armén) rätt undertecknare? Finns det en ingång i Försvarsmakten som Vinnova rekommenderar för utlysningens sökande?
 
 Tack på förhand. Ett svar före måndag eftermiddag hjälper oss mycket.
 

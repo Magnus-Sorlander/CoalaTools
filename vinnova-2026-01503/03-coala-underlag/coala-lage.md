@@ -7,6 +7,7 @@ Sammanställt 2026-10-10 från QMS (SharePoint `sites/QMS`), investeringsunderla
 - Coala Solutions AB, org.nr 556248-3700, Bangårdsgatan 13, 753 20 Uppsala. Ägs till 100 % av Magnus Sörlander (VD, utan ersättning). Riktad nyemission om 3 MSEK vid 10 MSEK pre-money pågår, stängning hösten 2026.
 - Förvärvade hela produktlinjen Coala Heart Monitor ur Coala Life AB:s konkursbo i april 2024: IP, källkod, 20+ patent, produktionsprocess, cirka 6 500 CE-märkta enheter i lager. Coala Life hade investerat över 200 MSEK i produkten.
 - Team: Magnus Sörlander (VD), Wilma Hoffman (Business Development and Operations Associate, projektledare i FUSMON), Anna Smedång, Yasmina Belarbi (QA/RA-dokumentation), Johan Trumstedt (teknik). Konsulter: OrderlyPeople (CEP/CER), Mikrodust (funktionstest), Intertek (60601). Tre personer i kostnadskostymen enligt investeringsunderlaget. **[verifiera anställningsform och timkostnad per person inför budgeten]**
+- Bolaget Coala Solutions AB är ett äldre aktiebolag (org.nr från 1980-talet) som låg helt vilande utan verksamhet fram till 2024, då det förvärvade Coala-produktlinjen och bytte namn. Relevant för utlysningar med åldersgräns (t.ex. Innovativa Startups, högst 10 år räknat från registrering): sannolikt inte behörigt, fråga Vinnova.
 - Historik: forskning inledd 2004 (Cometech AB), produkt lanserad 2016 av Coala Life, FDA-clearance 2019, konkurs mars 2024, förvärv april 2024, nytt QMS och omcertifiering 2024–2026, säljstart Q4 2026.
 
 ## Produkten
