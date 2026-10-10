@@ -93,3 +93,16 @@ Konsekvens för ansökan: AP4 (teknisk integration) blir en gapanalys av adminis
 - Referenser: Hemsjukhusvård Region Stockholm och FUSMON får användas.
 - De minimis: inga direkta bidrag mottagna. I Hemsjukhusvård var Coala leverantör till Region Stockholm, inte part.
 - FM-kontakter: inga egna. Samtalsunderlag önskas.
+
+## 8. Långsiktig finansieringsplan (Coala som egen sökande)
+
+Kravet att en innovationsaktör koordinerar gäller bara ekosystemutlysningarna. I de flesta Vinnova-utlysningar söker företaget själv. Allmänna regler: projektledaren måste vara anställd hos koordinatorn; stödnivå för litet företag normalt 45 % (experimentell utveckling) eller 70 % (genomförbarhetsstudie); de minimis 300 000 euro per tre år ska sparas till rätt tillfälle.
+
+| När (uppskattat) | Utlysning | Belopp | Vad Coala söker för |
+|---|---|---|---|
+| Mars–maj 2027 | Stöd till SME för test och evaluering (civil-militära programmet) | 500 000 kr | Fälttest med FömedC, bygger på förstudiens kravmatris |
+| Aug–okt 2027 | Acceleration av civil-militära innovationer 2028 | 1 MSEK + accelerator | Anpassning av admin/presentation för live-stöd, dual use-affärsplan |
+| Våren 2027 | Behovsdriven försvarsinnovation (tematisk) | 1–7 MSEK | Om temat passar, med FömedC som behovsägare |
+| Sommaren 2027 | Ekosystemutlysning, tillämpning | 2 MSEK (700 000/part) | Med BizMaker som koordinator, signerad behovsbeskrivning från förstudien |
+| Löpande | Medtech4Health, Swelife, Innovationsprojekt i företag, Eurostars | varierar | Civil utveckling: långtidslogger, AI-pipeline, integrationer. Kontrollera omgångar vintern 2026/27. |
+| Löpande | Verifieringsmedel (Ignite Sweden m.fl.) | 10–20 000 kr | Matchmaking, snabbt |
