@@ -1,0 +1,172 @@
+Instruktion:Mallen kan fyllas i på svenska eller engelska. Typsnitt med 11 punkters storlek ska användas. Eventuella illustrationer ska vara läsbara i svartvita utskrifter.
+Ifylld mall får maximalt utgöra 12 sidor inklusive CV. Projektbeskrivningar som överskrider detta antal sidor kommer inte att bedömas. Ta bort alla instruktioner (kursiv text) inklusive denna instruktion innan ni bifogar mallen till ansökan. Tänk på följande:• Projektet ska bygga på de behov som Försvarsmakten beskriver och tidigare analysarbete.• Fokus ligger på att utveckla nya modeller, verktyg och arbetssätt.• Beskriv planerad utvecklingsmodell och om spridning möjliggörs.
+1. Projektsammanfattning (max 1500 tecken)
+Sammanfatta den modell/verktyg/arbetssätt som avses utvecklas inom projektet. Ge en kort bakgrund till varför ni lämnar in denna ansökan, max 1500 tecken.
+Det ni skriver under denna sammanfattning ska även klistras in i sin helhet i Vinnovas e-tjänster, under avsnitt 1 Projektinformation, rubriken Projektsammanfattning. 
+2. Behovsanalys och tidigare validering
+
+Beskriv utmaningen/behovet som ni vill adressera med ert projekt. 
+
+Beskriv:
+Projektets relevans sett till de mål som identifierats i utlysningstextens kapitel 2.
+Det behov eller problem som ska adresseras, inklusive förståelse för militära krav och operativ kontext.
+Hur väl projektet etablerar och utvecklar ändamålsenlig civil-militär samverkan, med fokus på relevans, ömsesidigt värde och potential för fortsatta samarbeten. 
+Hur projektet bidrar till utveckling av kunskap, kompetens och färdigheter som stärker Försvarsmaktens förmågeutveckling. 
+I vilken utsträckning projektets resultat har potential att skalas upp, spridas eller nyttiggöras inom Försvarsmakten i en operativ kontext.
+Hur väl projektförslaget bidrar till ökad jämställdhet genom att integrera perspektiv kring kön och genus.
+Projektförslagets förankring i Försvarsmaktens befintliga eller planerade verksamhet.
+Hur ni adresserar det behov som Försvarsmakten beskriver i behovsbilagan. 
+Hur många och vilka användare inom innovationsstödsystemet är beredda att investera tid och pengar för att implementera projektresultat?
+Varför behövs den modell/verktyg/arbetssätt ni adresserar?
+Beskriv varför behovet ni adresserar är en stor utmaning? Kvantifiera hur stor efterfrågan är, d v s hur många och vilka användare inom innovationsstödsystemet är beredda att investera tid och pengar för att implementera projektresultat? 
+3. Beskrivning av lösningen (modell/verktyg som ska utvecklas)
+Beskriv lösningen:
+Vad levereras konkret för att stärka militär-civil samverkan och därmed militär förmågeutveckling
+På vilket sätt förbättrar/effektiviserar lösningen målgruppens/målgruppernas förmåga att driva stödverksamhet och skapa långsiktiga strukturer för dual-use-innovation? Beskriv förbättringen/effektiviseringen i så konkreta termer som möjligt: Vilka arbetsmoment, vilka mognadsfaser etc.
+Kan den framtagna modellen/verktyg/arbetssättet införas hos andra aktörer i Innovationsstödsystemet? Beskriv beräknade kostnader, resursbehov och en plan för tillämpning. Beskriv även hur metoden kan drivas och vidareutvecklas efter projektets slut
+
+4.Modell och valideringsplan
+Redogör för den modell/verktyg ni planerar att utveckla. Beskriv hur ni kommer att utveckla och pröva modellen/verktyg för att säkerställa att den är hållbar, för att den på sikt ska kunna tillämpas, spridas och vidareutvecklas. Vad blir nyttan och utfallet för nationell innovationsstödsförmåga och Försvarsmaktens förmågeutveckling ifall ni lyckas? Kvantifiera utfallet om möjligt. 
+5. Projektplan och arbetspaket
+Här anger ni kortfattat allmän information kring projektets genomförande, arbetsmetodik, om projektet har andra specifika resursbehov samt hur jämställdhetsaspekter integrerats i projektplanen. Referera gärna till kapitlen ovanför för att koppla projektaktiviteter till hypoteser, beskrivningar etc. 
+
+Projektplan
+(Beskriv innehåll och mål för respektive arbetspaket)
+
+Arbetspaket (AP)
+Beskrivning av aktivitet och dess konkreta resultat
+Kostnad
+AP 1 (t ex Utveckling)
+
+
+AP 2 (..)
+
+
+AP n 
+
+
+
+
+
+
+Ange i nedanstående tabell era uppskattade arbetsinsatser och kostnader kopplade till de olika arbetspaketen (infoga ytterligare rader vid behov). Information om stödberättigande kostnader finns här: Anvisning till stödberättigande kostnader
+
+
+Arbetspaket
+Tidsperiod
+Medverkande personer: Endast initialer, personerna beskrivs under kap 7 team och organisation
+Se länk ovan, stödberättigande
+ kostnader (SEK)
+Egen finansiering (SEK)
+Sökt bidrag (SEK)
+
+
+
+Personal
+Konsultkostnader, licenser m.m
+Utrustning, mark, byggnader
+Övriga direkta
+ Kostnader
+Indirekta kostnader
+
+
+
+
+
+(SEK)
+Tid (timmar)
+
+
+
+
+
+
+AP 1
+
+
+
+
+
+
+
+
+
+
+AP 2
+
+
+
+
+
+
+
+
+
+
+AP n
+
+
+
+
+
+
+
+
+
+
+Summa
+
+
+
+
+
+
+
+
+
+6. Risker 
+Vad upplever ni som svårt och riskfyllt, både avseende projektgenomförandet och projektets effekter? Beskriv riskerna (med ord), sannolikheten att riskerna ska inträffa (en siffra 1-5, 1=mycket låg sannolikhet), konsekvenserna om riskerna inträffar (en siffra 1-5, 1=mycket liten negativ konsekvens) och redogör för hur riskerna ska hanteras. Vinnova uppmuntrar att risken att projektavtal inte upprättas i tid, beaktas i riskbedömningen.
+Risk 
+Sanno-likhet 
+Konse-kvens 
+Åtgärd 
+Risk 1 
+ 
+ 
+ 
+Risk 2 
+ 
+ 
+ 
+Risk x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+7. Team och organisation
+Motiv för val av medverkande projektparters och deras roll i projektet
+Beskriv behov av kompetenser, erfarenheter och andra faktorer inom teamet som är avgörande för projektet. Teamet (nyckelpersonernas) sammansättning med avseende på könsfördelning samt fördelning av makt och inflytande mellan kvinnor och män inom genomförandet.
+CV: Uppgifter enligt tabellen nedan
+(kopiera tabellen nedan och klistra in en tabell/person för de i projektteamet som har en viktig roll för projektets genomförande samt dess fortsatta implementering).
+
+Namn, ålder och kön
+
+Titel, Organisation
+
+Omfattning medv. (h) under hela projektet
+
+Roll i projektet.
+
+Kompetens, erfarenhet relevant för projektet
+
+Motiv till varför person är viktig för projektet
+
+
+
+
+
+

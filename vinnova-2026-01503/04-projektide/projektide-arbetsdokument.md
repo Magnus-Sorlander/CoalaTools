@@ -1,0 +1,60 @@
+# Projektidé – arbetsdokument (fylls i tillsammans med Magnus)
+
+Syftet med dokumentet är att komma fram till ett beslut om inriktning och en projektidé som (a) uppfyller utlysningens formkrav, (b) svarar på bedömningskriterierna och (c) ger Coala reellt värde: FM-kontakt, behovsförståelse och en position inför företagsutlysningarna 2027–2028.
+
+## 1. Beslut som Magnus måste ta först
+
+| # | Fråga | Alternativ | Claudes rekommendation |
+|---|---|---|---|
+| B1 | Söker vi i 2026-01503 alls, givet att Coala inte kan vara koordinator? | Ja om en innovationsaktör kan leda. Nej om ingen hittas fredag/lördag; då riktar vi in oss på SME-test 2027 och Acceleration 2028 och använder tiden till FM-kontakten. | Ja, om BizMaker, UIC eller Miun Innovation säger ja senast lördag. |
+| B2 | Inriktning | Förstudie (300 000 kr, ingen FM-signatur) / Metodutveckling / Tillämpning (2 MSEK, FM-signatur krävs) | Förstudie, om vi inte redan har en stabskontakt i FM som kan signera före tisdag. |
+| B3 | Vem är koordinator | BizMaker / UIC / Miun Innovation / annan | BizMaker (befintlig relation, möte 6 okt). UIC som parallell förfrågan eftersom de redan är inne i programmet. |
+| B4 | Vilka är parter utöver koordinator och Coala | Miun (forskning), Karolinska/Region Stockholm (vård), ytterligare medtech-bolag från inkubatorn | Minst koordinator + Coala + Miun. Tre parter krävs för maxbelopp i metod/tillämpning och stärker "ekosystem". |
+| B5 | Vilken del av Försvarsmakten är behovsägare | Försvarsmedicin (Försvarsstaben) / FömedC / annan | Försvarsmedicinfunktionen. |
+| B6 | Coalas stödgrund | De minimis (100 %) eller genomförbarhetsstudie (70 %) | De minimis för förstudie, förutsatt att Coala inte redan utnyttjat 300 000 euro de minimis senaste tre åren **[Magnus bekräftar]**. |
+
+## 2. Frågor till Magnus om idéerna (du skrev att du har flera)
+
+Skriv svaren direkt här under eller i chatten.
+
+1. Vilka konkreta militära användningsfall ser du för Coala? Exempel att bekräfta eller förkasta: hälsokontroll och uppföljning av soldater i förband (arytmi, belastning), mönstring och värnplikt, uppföljning av skadade efter evakuering (10-1-2-kedjan, rollnivå 2–4), sjukhusvård i hemmet för personal och veteraner, distansmonitorering på fartyg, i fält eller på isolerade förläggningar, telemedicinsk auskultation av lungor (pneumoni, rök/kemisk exponering, CBRN), beredskapslager av enheter för masskadesituationer.
+2. Vilka av dessa kräver produktförändring (hårdvara, app, portal, offline, krypterad lagring, ruggning) och vilka fungerar med dagens produkt?
+3. Har du någon kontakt i Försvarsmakten, FMV, FOI, Försvarshögskolan, hemvärn, eller en läkare med försvarsmedicinsk bakgrund (till exempel på Karolinska eller SUS)? Vem ringer du först?
+4. Vad sade BizMaker den 6 oktober? Finns det en kontaktperson som kan ta ett beslut inom 24 timmar?
+5. Hur många timmar kan Coala lägga i ett projekt november 2026–mars 2027, och till vilken timkostnad? Vem från Coala är med (Magnus, Wilma, Anna, Yasmina, Johan)?
+6. Får vi använda Hemsjukhusvård Region Stockholm och FUSMON som referenser i ansökan? Får Kristina Groth och Jan Lundgren nämnas?
+7. Har Coala tagit emot de minimis-stöd 2024–2026 (Almi, Tillväxtverket, Vinnova verifieringsmedel, regionala stöd)? Belopp?
+8. Vill du att Coala ska vara det enda företaget i projektet, eller är det en fördel att koordinatorn tar in ett eller två bolag till ur sin portfölj? (Bredare ekosystemvärde ger högre poäng, men mindre pengar till Coala.)
+
+## 3. Kandidatidé A – Förstudie (rekommenderad om FM-signatur inte finns)
+
+**Arbetstitel:** "Civil medicinteknik i Försvarsmaktens sjukvårdskedja – förstudie om behov, operativ kontext och en inkubatormetod för medtech-dual use"
+
+**Vad förstudien gör (4 månader, max 300 000 kr):**
+- AP1 Behovsanalys: intervjuer och workshops med försvarsmedicinfunktionen, FömedC, FMV och FOI om var distansregistrering av EKG och hjärt-/lungljud av icke-specialist kan fylla ett förmågegap (uppföljning efter evakuering, hälsoövervakning i förband, utspridd vård, beredskap). Dokumenterad operativ kontext: 10-1-2, rollnivåer, miljökrav, uppkoppling, informationssäkerhet, SAFDIP.
+- AP2 Kravbild och gap: vilka krav (regulatoriska, IT-säkerhet, drift utan nät, lagring, ruggning, utbildning) som skiljer militär från civil användning, med Coala som genomgående fall. Resultat: en kravmatris som andra medtech-bolag kan återanvända.
+- AP3 Metod för innovationsaktören: hur en regional inkubator (BizMaker) systematiskt identifierar, kvalificerar och förbereder certifierade medtech-bolag för FM:s behov; arbetssätt, checklistor, kontaktvägar. Testas på Coala och 1–2 bolag till.
+- AP4 Resultat och spridning: rapport, workshop med FM och andra inkubatorer, underlag för en metod-/tillämpningsansökan 2027 och för Coalas egna ansökningar (SME-test, Acceleration).
+
+**Varför den kan vinna:** svarar direkt på lärdomen från 2024 att innovationsaktörer saknar FM-kontakt; bygger på två Vinnova-finansierade projekt (hemsjukhusvård, ECG AIMO) och ett pågående forskningsprojekt (FUSMON); regional spridning (Västernorrland, inget tidigare projekt i programmet norr om Uppsala utom Arctic Business); jämställt team (Wilma Hoffman, Anna Smedång, Yasmina Belarbi, Kristina Groth, Meng Jiang på Miun) med en kvinnlig projektledare hos koordinatorn om möjligt.
+
+**Budgetskiss:** koordinator 120–150 000 kr, Coala 100–120 000 kr (de minimis), Miun 50–60 000 kr. Justeras efter timkostnader.
+
+## 4. Kandidatidé B – Tillämpning (endast om FM-behovsbeskrivning kan signeras före tisdag)
+
+**Arbetstitel:** "Från hemsjukhusvård till utspridd militär sjukvård – test av en metod för att kvalificera och verifiera civil distansmonitorering i Försvarsmaktens vårdkedja"
+
+12 månader, upp till 2 MSEK, minst tre parter (koordinator, Coala, Miun, gärna Karolinska). Tar den civila hemsjukhusvårdsmodellen från Region Stockholm, tillämpar inkubatorns metod för behovsmatchning och genomför ett verifieringstest med FM-personal i en övnings- eller utbildningsmiljö (till exempel FömedC:s simulerings- och metodavdelning), inklusive anslutning mot SAFDIP för mjukvarudelen. Resultat: validerad metod, testrapport, kravspecifikation och plan för införande.
+
+Kräver att en namngiven person i stridskrafts-/försvarsgrensstab eller Försvarsstaben skriver under behovsbeskrivningen (1 sida) senast måndag. Utan den avslås ansökan formellt.
+
+## 5. Vad som inte passar i den här utlysningen
+
+Ren produktutveckling (långtidslogger, ruggad enhet, ny app) finansieras inte här. Den hör hemma i SME-test (500 000 kr, vår 2027) och Acceleration (1 MSEK, hösten 2027 för 2028). Förstudien bör därför formuleras så att den producerar exakt det underlag de ansökningarna behöver: FM-behov, kravbild, kontakt.
+
+## 6. Beslutslogg
+
+| Datum | Beslut | Av |
+|---|---|---|
+| 2026-10-10 | Arbetsstruktur och underlag upprättat | Claude |
+| | | |
