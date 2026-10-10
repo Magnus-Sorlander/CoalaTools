@@ -94,3 +94,17 @@ Fördelning av sökt bidrag (tak 300 000 kr):
 | Summa | 300 000 | 84 750 |
 
 Om koordinatorn klarar sig med färre timmar kan Coalas andel höjas ytterligare, upp till hela 239 750 kr under de minimis.
+
+## Variant: Mittuniversitetet som koordinator (beslut 2026-10-10 kväll)
+
+Koordinatorns uppgifter: projektledning, ansökan i e-tjänsten, rapportering, metod (AP5), workshops. Universitet får 100 % stöd men har ofta högre overhead (ofta 50–100 % på lön). Antagande: 80–90 timmar à cirka 1 000 kr inklusive overhead.
+
+| Part | Sökt bidrag | Kommentar |
+|---|---:|---|
+| Mittuniversitetet (koordinator) | 90 000 | Jan Lundgren projektledare, Miun Innovation som utförande innovationskontor, ev. postdok för datakvalitet |
+| Coala Solutions | 210 000 | av budget 239 750 kr; resterande 29 750 kr egen finansiering |
+| **Summa** | **300 000** | |
+
+Om Miun klarar sig på 60 000 kr kan Coala söka 239 750 kr, hela sin budget, under de minimis. Fler kostnader hos Coala (till exempel Wilma upp till 300 h, eller resor till Göteborg för FömedC-besök under övriga direkta kostnader) kan läggas till om Miuns andel blir låg.
+
+Att bekräfta med Jan: Miuns timkostnad inklusive overhead, vem som är firmatecknare för Vinnova-ansökningar, att Miun har konto i Vinnovas e-tjänst, och att Miun Innovation kan stå som den enhet som utvecklar och förvaltar metoden.

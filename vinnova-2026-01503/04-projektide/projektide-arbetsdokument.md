@@ -59,6 +59,7 @@ Ren produktutveckling (långtidslogger, ruggad enhet, ny app) finansieras inte h
 | 2026-10-10 | Arbetsstruktur och underlag upprättat | Claude |
 | 2026-10-10 | Idé 1 (plutonsjukvårdare, reach-back, ultraljud som COTS-komplement) är huvudspåret. Tord Juhlin klinisk nyckelperson. Ingen ultraljudspartner namnges. Ingen plattformsutveckling utöver admin/presentation. | Magnus |
 | 2026-10-10 | Inriktning: förstudie. AP2 informationsflöde prioriteras. | Magnus |
+| 2026-10-10 | Koordinator i första hand Mittuniversitetet (via Jan Lundgren och Miun Innovation). BizMaker och UIC som reserv. Coalas andel ska maximeras. | Magnus |
 | | | |
 
 ## 7. Magnus idé 1 (2026-10-10): Plutonsjukvårdare med Coala, ultraljud och live-stöd

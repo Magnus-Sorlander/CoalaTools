@@ -58,11 +58,12 @@ Coala Solutions AB, Bangårdsgatan 13, Uppsala
 
 Hej,
 
-Coala Solutions AB förbereder, tillsammans med en inkubator som koordinator och Mittuniversitetet, en förstudieansökan i utlysningen "Stärkt ekosystem för civil-militär innovationssamverkan". Tre korta frågor:
+Coala Solutions AB förbereder, tillsammans med en inkubator som koordinator och Mittuniversitetet, en förstudieansökan i utlysningen "Stärkt ekosystem för civil-militär innovationssamverkan". Fyra korta frågor:
 
 1. Koordinatorkravet: om vår tilltänkta inkubator inte kan ställa upp i tid, kan ett privat konsultbolag inom regulatory affairs för medicinteknik, som dagligen ger rådgivning till företag, godtas som koordinator? Vår läsning är att det inte är avsikten, men vi vill ha det bekräftat.
 2. SAFDIP: förstudien gäller en befintlig certifierad produkt med mobilapp och vårdportal. Vad förväntas av en förstudie i förhållande till SAFDIP, och finns det en kontaktperson eller dokumentation vi kan hänvisa till?
-3. Behovsbeskrivning: den krävs inte för förstudie, men vi avser att förstudien ska resultera i en signerad behovsbeskrivning inför ett tillämpningsprojekt 2027. För försvarsmedicin, är generalläkaravdelningen i Försvarsstaben eller Arméstaben (Försvarsmedicincentrum tillhör sedan januari 2026 Armén) rätt undertecknare? Finns det en ingång i Försvarsmakten som Vinnova rekommenderar för utlysningens sökande?
+3. Koordinator: kan ett universitet, genom sitt innovationskontor och med en anställd professor som projektledare, vara koordinator? I 2024 års infrastrukturutlysning koordinerade Lunds universitet och Chalmers förstudier, och vi vill bekräfta att samma gäller nu.
+4. Behovsbeskrivning: den krävs inte för förstudie, men vi avser att förstudien ska resultera i en signerad behovsbeskrivning inför ett tillämpningsprojekt 2027. För försvarsmedicin, är generalläkaravdelningen i Försvarsstaben eller Arméstaben (Försvarsmedicincentrum tillhör sedan januari 2026 Armén) rätt undertecknare? Finns det en ingång i Försvarsmakten som Vinnova rekommenderar för utlysningens sökande?
 
 Tack på förhand. Ett svar före måndag eftermiddag hjälper oss mycket.
 
@@ -104,3 +105,27 @@ VD, Coala Solutions AB
 **Nämn:** att förstudien bygger på hemsjukhusvård i Region Stockholm (Vinnovafinansierat) och FUSMON med Mittuniversitetet, och att den ska ge en signerad behovsbeskrivning till 2027.
 
 **Resultat du vill ha:** ett namn i Försvarsmakten, och Vinnovas syn på om förstudiens upplägg ligger rätt i utlysningen.
+
+---
+
+## 6. Mejl till Jan Lundgren, Mittuniversitetet (skicka i helgen)
+
+**Ämne:** Snabb fråga: Miun som koordinator för Vinnova-förstudie i civil-militära programmet, deadline tisdag
+
+Hej Jan,
+
+Jag har en fråga som brådskar. Vinnova och Försvarsmakten har en öppen utlysning, "Stärkt ekosystem för civil-militär innovationssamverkan" (2026-01503), som stänger tisdag 13 oktober kl 14:00. Vi vill söka en förstudie (max 300 000 kr, fyra månader från 20 november) om hur Coalas certifierade distansmonitorering, EKG och hjärt-/lungljud, kan kvalificeras för Försvarsmaktens vårdkedja, med plutonsjukvårdare som får fjärrstöd av utbildad vårdpersonal. Det knyter direkt an till FUSMON: datakvalitet, sensorfusion och vad som krävs av data i fält.
+
+Kravet i utlysningen är att koordinatorn är en innovationsaktör, till exempel ett innovationskontor, och att projektledaren är anställd hos koordinatorn. Företag kan bara vara part. Universitet var koordinatorer i 2024 års omgång (Lunds universitet, Chalmers). Därför frågan: kan Mittuniversitetet, med dig som projektledare och Miun Innovation som utförande innovationskontor, vara koordinator?
+
+Vad det innebär för Miun:
+- Cirka 80–90 timmar över fyra månader, finansierat till 100 % (cirka 90 000 kr inklusive overhead, justeras efter er timkostnad): projektledning, rapportering, och en metodbeskrivning för hur innovationskontoret matchar certifierad medicinteknik mot militära behov.
+- Ansökan skapas i Vinnovas e-tjänst på Miun; jag och Claude har text, budget och bilagor klara, ni granskar innan klarmarkering.
+- Efter beslut: underskrift av medverkan och ett enkelt projektavtal mellan Miun och Coala.
+
+Jag behöver veta senast måndag förmiddag om det är möjligt, vem på Miun Innovation som bör kopplas in, er timkostnad inklusive overhead och vem som är firmatecknare för Vinnova-ansökningar. Jag ringer gärna när det passar dig, även i helgen.
+
+Utlysningen: https://www.vinnova.se/e/civil-militara-synergier/starkt-ekosystem-for-civil-militar-2026-01503/
+
+Vänliga hälsningar
+Magnus
