@@ -1,0 +1,50 @@
+# Budget – förstudie (utkast 2026-10-10)
+
+## Ramar från utlysningen
+
+- Max sökt bidrag för hela förstudien: **300 000 kr**, för alla parter tillsammans. Max 4 månader (start 20 nov 2026, slut senast 20 mars 2027).
+- Stödberättigande: utbetald bruttolön plus arbetsgivaravgifter och lönebikostnader, konsult- och licenskostnader (max 20 % av organisationens budget), övriga direkta kostnader, indirekta kostnader (max 30 % av lönekostnaderna).
+- Coala kan få upp till 100 % under de minimis (inga tidigare de minimis-stöd, så hela utrymmet 300 000 euro finns kvar). Intyg signeras av firmatecknare.
+- Egen finansiering får redovisas och väger positivt i bedömningen ("vilka ytterligare resurser kommer ni att attrahera").
+
+## Coalas timmar enligt Magnus, omräknade
+
+Antaganden: 165 arbetstimmar per månad, lönebikostnader 42 % (arbetsgivaravgift 31,42 % plus pension och försäkringar). Justera om Coala har andra faktiska påslag.
+
+| Person | Timmar | Underlag | Timkostnad | Kostnad | Kostnadsslag |
+|---|---:|---|---:|---:|---|
+| Magnus Sörlander | 100 | 100 000 kr/mån | 861 kr | 86 100 | Personal |
+| Wilma Hoffman | 250 | 35 000 kr/mån | 301 kr | 75 300 | Personal |
+| Anna Smedång | 40 | 50 000 kr/mån | 430 kr | 17 200 | Personal |
+| Johan Trumstedt | 80 | konsult, motsv. 80 000 kr/mån | 688 kr | 55 000 | Konsult |
+| Yasmina Belarbi | 40 | konsult 1 200 kr/h | 1 200 kr | 48 000 | Konsult |
+| Indirekta kostnader | | 30 % av personal 178 600 | | 53 600 | Indirekt |
+| **Summa Coala** | **510** | | | **335 200** | |
+
+## Tre problem med den summan
+
+1. **Hela förstudiens tak är 300 000 kr.** Koordinatorn och Miun ska också ha pengar. Coalas rimliga sökta bidrag är 100 000–140 000 kr. Resten av Coalas insats redovisas som **egen finansiering**, vilket är tillåtet och stärker ansökan. Alternativt skärs timmarna ner.
+2. **Konsultkostnader får vara max 20 % av Coalas budget.** Johan och Yasmina är 103 000 kr av 335 200 kr, alltså 31 %. Lösning: Johan tas upp som personal om han är anställd (Magnus skrev "konsult anställd"); annars minskas konsulttimmarna eller läggs som egen finansiering utanför det sökta bidraget.
+3. **Magnus lön.** Vinnova ersätter bara **utbetald** bruttolön. Investeringsunderlaget anger att VD inte tar ut lön. För att Magnus timmar ska vara stödberättigande måste lön faktiskt betalas ut under projektperioden. Annars tas Magnus tid upp som egen finansiering utan lönekostnad, eller till en lön som verkligen betalas.
+
+## Förslag till fördelning av sökt bidrag (att stämma av med koordinatorn)
+
+| Part | Sökt bidrag | Egen finansiering | Kommentar |
+|---|---:|---:|---|
+| Koordinator (BizMaker/UIC) | 110 000 | 0 | Projektledning, metodutveckling AP5, workshops. Cirka 120–150 h. 100 % stöd. |
+| Coala Solutions | 130 000 | ca 200 000 | AP1–AP4 substans. De minimis 100 %. Resterande timmar egen finansiering. |
+| Mittuniversitetet | 60 000 | 0 | Datakvalitet och analysstruktur i AP3/AP4. 100 % stöd. |
+| **Summa** | **300 000** | **ca 200 000** | Total projektbudget cirka 500 000 kr. |
+
+Tord Juhlin (5–10 h/mån, cirka 30 h totalt): antingen som Coalas Medical Director i Coalas budget (kräver ersättningsform) eller som extern klinisk expert i AP3. Avgörs när hans avtalsform är klar.
+
+## Arbetspaket och timmar (skiss, Coala)
+
+| AP | Innehåll | Magnus | Wilma | Anna | Johan | Yasmina |
+|---|---|---:|---:|---:|---:|---:|
+| AP1 Behov och operativ kontext | intervjuer FömedC/FunkE, Arméstaben, workshops | 30 | 60 | 10 | | |
+| AP2 Informationsflöde och säkerhet | nät, offline, kryptering, journal, SAFDIP | 30 | 50 | | 50 | 10 |
+| AP3 Vårdkedja och återkoppling | reach-back-flöde med Tord Juhlin, triage, hemsjukhusvård som referens | 20 | 60 | 10 | | |
+| AP4 Teknisk integration och kvalitet | gapanalys admin/presentation, ultraljud som COTS-komplement, MDR-väg | 10 | 30 | | 30 | 30 |
+| AP5 Metod och spridning | koordinatorns metod, rapport, spridning, behovsbeskrivning 2027 | 10 | 50 | 20 | | |
+| Summa | | 100 | 250 | 40 | 80 | 40 |

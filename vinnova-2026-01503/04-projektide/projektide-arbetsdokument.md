@@ -58,6 +58,7 @@ Ren produktutveckling (långtidslogger, ruggad enhet, ny app) finansieras inte h
 |---|---|---|
 | 2026-10-10 | Arbetsstruktur och underlag upprättat | Claude |
 | 2026-10-10 | Idé 1 (plutonsjukvårdare, reach-back, ultraljud som COTS-komplement) är huvudspåret. Tord Juhlin klinisk nyckelperson. Ingen ultraljudspartner namnges. Ingen plattformsutveckling utöver admin/presentation. | Magnus |
+| 2026-10-10 | Inriktning: förstudie. AP2 informationsflöde prioriteras. | Magnus |
 | | | |
 
 ## 7. Magnus idé 1 (2026-10-10): Plutonsjukvårdare med Coala, ultraljud och live-stöd
@@ -79,3 +80,14 @@ Claudes bedömning: se chatt 2026-10-10. Utredningsfrågorna 1–3 är i praktik
 4. **Plattform:** ingen större förändring krävs. Inga nya API:er. Det som behövs är administrations- och presentationsdelen i plattformen (live-vy, roller för fjärrstöd, sammanhållen administration av Coala och ultraljud).
 
 Konsekvens för ansökan: AP4 (teknisk integration) blir en gapanalys av administration och presentation plus datakvalitet, inte utveckling. Ultraljud beskrivs som "kompletterande COTS-enhet under gemensam administration", leverantör väljs i förstudien.
+
+### Magnus svar 2026-10-10, omgång 2
+
+- B1/B2: Förstudie. Magnus vill egentligen mer, men bedömer att underlaget inte räcker för tillämpning. Cirka 90 % av scope är klart; den svåra frågan är informationsflödet, som kan ändra designen. AP2 (informationsflöde) blir därför förstudiens tyngsta del.
+- BizMaker: kontakten 6 oktober gällde annat, men samarbete har nyligen inletts. Snabbsvar söks måndag.
+- Mejl och samtalsunderlag: ja, Claude skriver.
+- Tord Juhlin: 5–10 timmar per månad.
+- Coalas insats: Magnus 100 h (månadslön 100 000), Wilma 250 h (35 000), Anna 40 h (50 000), Johan 80 h (konsult, motsvarande 80 000/mån), Yasmina 40 h (konsult 1 200 kr/h).
+- Referenser: Hemsjukhusvård Region Stockholm och FUSMON får användas.
+- De minimis: inga direkta bidrag mottagna. I Hemsjukhusvård var Coala leverantör till Region Stockholm, inte part.
+- FM-kontakter: inga egna. Samtalsunderlag önskas.
